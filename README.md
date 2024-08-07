@@ -65,7 +65,7 @@ The Job Board Application is a comprehensive platform that connects employers wi
 ## Getting Started
 -------------------
 
-1. Clone the repository: `git clone https://github.com/your-username/job-board-app.git`
+1. Clone the repository: `git clone https://github.com/Rugwiza03/job-board-app.git`
 2. Install dependencies: `npm install`
 3. Start the application: `npm start`
 
