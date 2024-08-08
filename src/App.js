@@ -1,4 +1,5 @@
-
+import SignUp from './components/SignUp';
+import Login from './components/Login';
 
 function App() {
   return (
@@ -6,7 +7,8 @@ function App() {
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
-        
+        <Route path="/signup" element={<SignUp />} />
+        <Route path="/login" element={<Login />} />
         {/* Add more routes here */}
       </Routes>
     </Router>
